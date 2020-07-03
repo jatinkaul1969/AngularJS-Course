@@ -8,4 +8,4 @@ Single Web Page Application Using Angular JS
 
 [MOD4 SOL](Mod4-Sol).
 
-[MOD5 SOL](Mod5-Sol).
+[MOD5 SOLUTIONS](Mod5-Sol).
